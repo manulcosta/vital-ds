@@ -1,0 +1,8 @@
+{
+  "border-radius": {
+    "md": {
+      "value": "8px",
+      "type": "borderRadius"
+    }
+  }
+}

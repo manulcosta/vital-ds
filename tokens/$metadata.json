@@ -1,9 +1,12 @@
 {
   "tokenSetOrder": [
     "global/colors",
+    "core",
+    "semantic",
     "semantic-color",
     "brand A/palette",
     "brand B/palette",
-    "components/button"
+    "components/button",
+    "semantic-brand A"
   ]
 }

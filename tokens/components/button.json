@@ -14,5 +14,11 @@
         }
       }
     }
+  },
+  "border-radius": {
+    "button": {
+      "value": "border-radius.md",
+      "type": "borderRadius"
+    }
   }
 }

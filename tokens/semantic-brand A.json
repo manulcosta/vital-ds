@@ -1,0 +1,8 @@
+{
+  "border-radius": {
+    "md": {
+      "value": "border-radius.4",
+      "type": "borderRadius"
+    }
+  }
+}
