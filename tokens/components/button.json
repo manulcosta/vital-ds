@@ -1,1 +1,18 @@
-{}
+{
+  "color": {
+    "button": {
+      "primary": {
+        "default": {
+          "background": {
+            "value": "{accent.default}",
+            "type": "color"
+          },
+          "foreground": {
+            "value": "{fg.inverse}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,1 +1,84 @@
-{}
+{
+  "fg": {
+    "1": {
+      "value": "{core.neutral.100}",
+      "type": "color"
+    },
+    "2": {
+      "value": "{core.neutral.80}",
+      "type": "color"
+    },
+    "3": {
+      "value": "{core.neutral.50}",
+      "type": "color"
+    },
+    "inverse": {
+      "value": "{colors.white}",
+      "type": "color"
+    }
+  },
+  "bg": {
+    "base": {
+      "value": "{colors.white}",
+      "type": "color"
+    },
+    "layer1": {
+      "value": "{core.neutral.10}",
+      "type": "color"
+    },
+    "layer2": {
+      "value": "{core.neutral.20}",
+      "type": "color"
+    }
+  },
+  "text": {
+    "neutrals": {
+      "default": {
+        "value": "{colors.black}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{colors.grey.700}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{colors.grey.500}",
+        "type": "color"
+      },
+      "disable": {
+        "value": "{colors.grey.300}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{colors.white}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "default": {
+        "value": "{colors.blue.400}",
+        "type": "color"
+      }
+    },
+    "feedback": {
+      "error": {
+        "value": "{colors.red.400}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{colors.orange.400}",
+        "type": "color"
+      },
+      "success": {
+        "value": "{colors.green.500}",
+        "type": "color"
+      }
+    }
+  },
+  "accent": {
+    "default": {
+      "value": "{core.primary.50}",
+      "type": "color"
+    }
+  }
+}
