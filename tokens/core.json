@@ -4,5 +4,11 @@
       "value": "4px",
       "type": "borderRadius"
     }
+  },
+  "sizing": {
+    "sm": {
+      "value": "2px",
+      "type": "sizing"
+    }
   }
 }
